@@ -1,12 +1,12 @@
 # Hestia Control Panel Module for Clientexec
 
-This project is a custom module that integrates the **Hestia Control Panel** with **Clientexec**, a leading client management and billing platform for web hosting providers. The module enables seamless account management, automation, and synchronization between HostiaCP and Clientexec, simplifying operations for hosting providers.
+This project is a custom module that integrates the **Hestia Control Panel** with **Clientexec**, a leading client management and billing platform for web hosting providers. The module enables seamless account management, automation, and synchronization between HestiaCP and Clientexec, simplifying operations for hosting providers.
 
 ## Key Features
 - **Automated Account Management**: Provision, suspend, and terminate hosting accounts directly from Clientexec.
-- **Real-Time Synchronization**: Sync domain, hosting, and user information between HostiaCP and Clientexec.
+- **Real-Time Synchronization**: Sync domain, hosting, and user information between HestiaCP and Clientexec.
 - **Customizable Options**: Support for custom hosting packages and configurations.
-- **Intuitive Integration**: Easy setup and compatibility with existing Clientexec and HostiaCP installations.
+- **Intuitive Integration**: Easy setup and compatibility with existing Clientexec and HestiaCP installations.
 - **Secure Communication**: Implements secure API calls to ensure data integrity and protection.
 
 ## Requirements
