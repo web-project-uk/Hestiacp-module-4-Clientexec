@@ -25,3 +25,6 @@ We welcome contributions! If you have suggestions, issues, or feature requests, 
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
+
+## Need additional help or service
+For software development or hosting services, visit us at: https://www.web-project.co.uk/
